@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    width: calc(100% - 2 * 48px);
+}
+
+@media screen and (max-width: 100px) {
+    .header {
+        width: calc(100% - 2 * 24px);
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .header {
+        width: calc(100% - 2 * 16px);
+    }
+}
