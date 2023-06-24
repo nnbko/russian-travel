@@ -17,5 +17,7 @@
 * Англоязычная версия сайта
 
 ## Ссылка на проект
-
 https://github.com/nnbko/russian-travel
+
+## Ссылка на сайт
+https://nnbko.github.io/russian-travel/
