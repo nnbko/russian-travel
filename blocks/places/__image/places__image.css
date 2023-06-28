@@ -3,7 +3,7 @@
   grid-row: 2 / 3;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
   .places__image {
     grid-row: 3 / 4;
     margin: 16px 0;
