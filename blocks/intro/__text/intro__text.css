@@ -1,8 +1,7 @@
 .intro__text {
-    margin-top: 40px;
-    font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 163%;
-  }
+  margin: 37px 0 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+}

@@ -1,5 +1,5 @@
 .cover__overlay{
-   min-height: 740px;
+  min-height: 740px;
   background-image: url(../../../images/cover-trains.jpg);
   background-position: center;
   background-size: cover;
@@ -10,6 +10,7 @@
   justify-content: center;
   align-items: center;
   position: relative;
+  padding: 2px;
   
 }
 .cover__overlay::before{
